@@ -1,7 +1,7 @@
 <div align="center">
 <p><img width="200" src="https://github.com/vue-bulma/vue-admin/blob/master/client/assets/logo@2x.png"></p>
 
-<h1>Vue Admin</h1>
+<h1>Vue Admin + Jeesite</h1>
 
 <p>
   <strong>Vue Admin Panel Framework</strong>,
