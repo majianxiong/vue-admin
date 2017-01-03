@@ -1,6 +1,6 @@
 # 开发指南
 
-## Build Setup
+## 构建步骤
 
 ``` bash
 # install dependencies
